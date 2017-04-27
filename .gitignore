@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+# .gitignore -- specifies stuff for GIT to leave alone
+
+# ignore all files ending with ~
+*~ 
+
+# ignore python compiled files
+*.pyc
+
+# ignore .o and .o.cmd files
+*.o
+*.o.cmd
+
+# ignore Haskell interface files
+*.hi
+
+# ignore .mod.*
+*.mod.*
+
+# ignore .ko and .ko.cmd files
+*.ko
+*.ko.cmd
+
+old/
+tmp/
+
+=======
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+>>>>>>> 8ee6bf491a9606b8b95fd11ec970f671e515628c
