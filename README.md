@@ -1,7 +1,7 @@
 # HashFusion
 HashFusion - Reference implementations and documentation for flexible hash combination.
 
-Author: brian.monahan@hpe.com
+Author: brianqmonahan@googlemail.com
 
 Version 1.1, August 2017
 
